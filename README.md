@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 예능지향 프로그래머
+### Programmer is not a coder
 <!--
 **seokmin01/seokmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
