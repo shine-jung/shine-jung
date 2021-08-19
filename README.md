@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### "Programmer is not a coder"
+
+- 👯 I’m looking to collaborate on design
 <!--
 **seokmin01/seokmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
