@@ -2,7 +2,7 @@
 
 ### "Programmer is not a coder"
 
-- 👯 I’m looking to collaborate on design
+### 1 day 1 Commit, 1 algorithm, 3 Bible chapters.
 <!--
 **seokmin01/seokmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
