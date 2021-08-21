@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### "Programmer is not a coder"
+### slogan - "Programmer is not a coder"
 
 ### 1 day 1 Commit, 1 algorithm, 3 Bible chapters.
 <!--
