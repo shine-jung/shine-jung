@@ -4,18 +4,18 @@
 
 ### Todo - 1 day 1 Commit, 1 algorithm, Read 3 Bible chapters.
 
-### Team
+#### Team
 CRA - [Computer Research Association](https://www.instagram.com/cra_handong/) (2020.04.05. ~ )
 
-### Projects
+#### Projects
 - [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021. 07. 03. ~ )\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marunemo&repo=Hanchelin_Guide&theme=react)](https://github.com/marunemo/Hanchelin_Guide)
 
-### Timeline
+#### Timeline
 - 2001.10.22 서울 출생
 - 2020.03.02 한동대학교 입학
 
-### 수상 내역
+#### 수상 내역
 2020.11. - 교내 2020 SW페스티벌 1학년 자작소프트웨어 공모전 부문 최우수상
 
 2021.07. - 2021 대경권 프로그래밍 경진대회 장려상\
