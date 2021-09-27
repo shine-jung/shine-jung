@@ -4,20 +4,13 @@
 
 ### Todo - 1 day 1 Commit, 1 algorithm, Read 3 Bible chapters.
 
-## Info
+### Info
 
 이름: 정석민
-
 주소: 경상북도 포항시
-
 소속: 한동대학교 전산전자공학부
-
 MBTI: ESFJ
-
-동아리: [CCC](http://nh.kccc.org/), [CRA](https://cra16.github.io/)
-
 백준 ID: [joydonald1](https://www.acmicpc.net/user/joydonald1)
-
 Blog: [seokmin01](https://seokmin01.tistory.com)
 
 ### Team
