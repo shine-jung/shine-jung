@@ -3,6 +3,8 @@
 ### slogan - "Programmer is not a coder"
 
 ### 1 day 1 Commit, 1 algorithm, 3 Bible chapters.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=radical)
 <!--
 **seokmin01/seokmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
