@@ -1,11 +1,9 @@
-### Hi there 👋
-
-### slogan - "Programmer is not a coder"
+### "Programmer is not a coder"
 
 ### Todo - 1 day 1 Commit, 1 algorithm, Read 3 Bible chapters.
 
 #### Team
-CRA - [Computer Research Association](https://www.instagram.com/cra_handong/) (2020.04.05. ~ )
+CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05. ~ )
 
 #### Projects
 - [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021. 07. 03. ~ )\
