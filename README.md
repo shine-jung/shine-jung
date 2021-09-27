@@ -6,7 +6,7 @@
 CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05. ~ )
 
 #### Projects
-- [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021. 07. 03. ~ )\
+- [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021.07.03. ~ )\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marunemo&repo=Hanchelin_Guide&theme=react)](https://github.com/marunemo/Hanchelin_Guide)
 
 #### Timeline
