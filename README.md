@@ -1,6 +1,6 @@
 ### "Programmer is not a coder"
 
-### Todo - 1 day 1 Commit, 1 algorithm, Read 3 Bible chapters.
+### Todo - 1 day 1 Commit, 1 Algorithm, Read 3 Bible chapters.
 
 #### Team
 CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
@@ -13,7 +13,7 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 #### Online Judge
 - [Baekjoon](https://www.acmicpc.net/user/joydonald1)
 
-[![백준 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1)
 
 #### Timeline
 - 2001.10.22 서울 출생
@@ -27,6 +27,13 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 2021.09 - 교내 SW 교육동영상 공모전 우수상
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=radical)
+
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin01&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+</td></tr></table> 
+
 <!--
 **seokmin01/seokmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
