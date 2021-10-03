@@ -27,9 +27,9 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 2021.09 - 교내 SW 교육동영상 공모전 우수상
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin01&hide_border=true&layout=compact&theme=vue-dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin01&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
 </td></tr></table> 
 
 <!--
