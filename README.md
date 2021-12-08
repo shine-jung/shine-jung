@@ -24,7 +24,10 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 
 2021.07 - 대경권 프로그래밍 경진대회 장려상\
 2021.08 - SW 중심대 연합, 모형차 자율주행 경진대회 주행결과 부문 동상\
-2021.09 - 교내 SW 교육동영상 공모전 우수상
+2021.09 - 교내 SW 교육동영상 공모전 우수상\
+2021.12 - 교내 SW 페스티벌 문제해결 아이디어 공모전 부문 대상\
+2021.12 - 교내 SW 페스티벌 스마트 애플리케이션 공모전 부문 우수상\
+2021.12 - 2021 전국 대학생 프로그래밍 경진대회 장려상
 
 <table><tr><td valign="top" width="54%">
 <img src="https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
