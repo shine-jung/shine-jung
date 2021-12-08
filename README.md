@@ -5,7 +5,7 @@
 #### Team
 CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 
-#### Projects
+<!-- #### Projects
 - [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021.07.03 ~ )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marunemo&repo=Hanchelin_Guide&theme=react)](https://github.com/marunemo/Hanchelin_Guide)
@@ -13,7 +13,7 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 #### Online Judge
 - [Baekjoon](https://www.acmicpc.net/user/joydonald1)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1) -->
 
 #### Timeline
 - 2001.10.22 서울 출생
