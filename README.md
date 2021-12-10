@@ -1,6 +1,6 @@
 ### "Programmer is not a coder"
 
-### Todo - 1 day 1 Commit, 1 Algorithm, Read 3 Bible chapters.
+<!-- ### Todo - 1 day 1 Commit, 1 Algorithm, Read 3 Bible chapters. -->
 
 #### Team
 CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
