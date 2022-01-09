@@ -30,7 +30,7 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 2021.12 - 전국 대학생 프로그래밍 경진대회 장려상
 
 <table><tr><td valign="top" width="54%">
-<img src="https://github-readme-stats.vercel.app/api?username=seokmin01&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shine-jung&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="46%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin01&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine-jung&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
 </td></tr></table>
