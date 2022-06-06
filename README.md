@@ -25,6 +25,8 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 2021.12 - 교내 SW 페스티벌 스마트 애플리케이션 공모전 부문 우수상\
 2021.12 - 전국 대학생 프로그래밍 경진대회 장려상
 
+2022.05 - 대경권 프로그래밍 경진대회 장려상
+
 <table><tr><td valign="top" width="54%">
 <img src="https://github-readme-stats.vercel.app/api?username=shine-jung&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="46%">
