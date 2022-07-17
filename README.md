@@ -33,7 +33,7 @@ CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine-jung&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
 </td></tr></table>
 
-#### Online Judge
-- [Baekjoon](https://www.acmicpc.net/user/joydonald1)
+<!-- #### Online Judge -->
+<!-- - [Baekjoon](https://www.acmicpc.net/user/joydonald1) -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1) -->
