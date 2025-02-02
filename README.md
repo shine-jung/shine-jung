@@ -1,48 +1,37 @@
-### "Programmer is not a coder"
+# 👋 Hi, I'm Seokmin Jung!
 
-<!-- ### Todo - 1 day 1 Commit, 1 Algorithm, Read 3 Bible chapters. -->
+I'm a frontend developer passionate about creating intuitive user experiences.  
+Currently working at **Merlot Lab**, focusing on **web and app development**.  
 
-#### Team
+🚀 I enjoy building useful solutions and helping others.  
 
-CRA - [Computer Research Association](https://cra16.github.io/) (2020.04.05 ~ )
+## 🏆 Awards
+- 🥇 **1st Place in the 2023 University Capstone Competition**  
+- 🏆 **2024 WWDC Swift Student Challenge Winner**  
 
-<!-- #### Projects
-- [한슐랭 가이드](https://github.com/marunemo/Hanchelin_Guide) (2021.07.03 ~ )
+## 🔧 Tech Stack
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marunemo&repo=Hanchelin_Guide&theme=react)](https://github.com/marunemo/Hanchelin_Guide)
--->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-#### Timeline
+## 📖 Blog & Portfolio
 
-- 2001.10.22 서울 출생
-- 2020.03.02 한동대학교 입학
+📜 Read my blog → **[blog.shinejung.com](https://blog.shinejung.com/)**  
+📂 Check out my portfolio → **[shinejung.com](https://www.shinejung.com/)**  
 
-<!-- #### 수상 내역
+## 📫 Contact
 
-2020.11 - 교내 SW 페스티벌 1학년 자작 소프트웨어 공모전 부문 최우수상
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joydonald5314@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seokmin-jung-8a0a7826b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shine-jung)
 
--2021.08 - SW 중심대 연합, 모형차 자율주행 경진대회 주행결과 부문 동상\
--2021.09 - 교내 SW 교육동영상 공모전 우수상\
+---
 
-2021.07 - 대경권 프로그래밍 경진대회 장려상\
-2021.12 - 교내 SW 페스티벌 문제해결 아이디어 공모전 부문 대상\
-2021.12 - 교내 SW 페스티벌 스마트 애플리케이션 공모전 부문 우수상\
-2021.12 - 전국 대학생 프로그래밍 경진대회 장려상
-
-2022.05 - 대경권 프로그래밍 경진대회 장려상\
-2022.10 - 교내 SW 페스티벌 스마트 애플리케이션 공모전 부문 최우수상\
-2022.11 - Bizflow M Contest 최우수상\
-2022.11 - 전국 대학생 프로그래밍 경진대회 장려상
-
-2023.06 - 교내 캡스톤 경진대회 대상 -->
-
-<table><tr><td valign="top" width="54%">
-<img src="https://github-readme-stats.vercel.app/api?username=shine-jung&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="46%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine-jung&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
-</td></tr></table>
-
-<!-- #### Online Judge -->
-<!-- - [Baekjoon](https://www.acmicpc.net/user/joydonald1) -->
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joydonald1)](https://solved.ac/joydonald1) -->
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shine-jung&show_icons=true&theme=react) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shine-jung&layout=compact&theme=react) |
+|:--:|:--:|
+| **GitHub Stats** | **Most Used Languages** |
