@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seokmin Jung!
+# 👋 Hi, I'm Seokmin(Peter) Jung!
 
 I'm a frontend developer passionate about creating intuitive user experiences.  
 Currently working at **Merlot Lab**, focusing on **web and app development**.  
@@ -6,8 +6,8 @@ Currently working at **Merlot Lab**, focusing on **web and app development**.
 🚀 I enjoy building useful solutions and helping others.  
 
 ## 🏆 Awards
-- 🥇 **1st Place in the 2023 University Capstone Competition**  
-- 🏆 **2024 WWDC Swift Student Challenge Winner**  
+- 🥇 [**1st Place in the 2023 University Capstone Competition**](https://github.com/walab-shiny/HanQ-Client)  
+- 🏆 [**2024 WWDC Swift Student Challenge Winner**](https://blog.shinejung.com/entry/WWDC24-Swift-Student-Challenge-%EC%9C%84%EB%84%88-%EC%84%A0%EC%A0%95-%ED%9B%84%EA%B8%B0)  
 
 ## 🔧 Tech Stack
 
